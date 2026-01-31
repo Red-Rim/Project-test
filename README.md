@@ -1,7 +1,7 @@
-# Morocco Alumni
+# Project
 
 ## Description
-Site web Morocco Alumni - Plateforme de rassemblement des anciens étudiants de la coopération du Royaume du Maroc.
+__
 
 ## Versions du Projet
 
